@@ -54,13 +54,6 @@ Open-Meteo Air Quality API ─┘
 - **Why Python inside Power Query?** Enabled defensive JSON parsing with `.get()` fallbacks — cleaner than deeply nested M-language transformations.
 - **Why Leipzig?** I'm based in Leipzig, Germany 🇩🇪, currently pursuing my M.Sc. in Big Data & AI at SRH Hochschule Leipzig.
 
-## 📸 Screenshots
-
-### Main Dashboard
-![Main](screenshots/dashboard-main.png)
-
-
-
 ## 📄 License & Attribution
 
 Weather data © [Open-Meteo](https://open-meteo.com) — CC BY 4.0  
