@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard providing **live 7-day weather and air quality analytics for Leipzig, Germany** — built using Python-powered data ingestion from the free, keyless **Open-Meteo API**.
 
-![Dashboard Preview](screenshots/dashboard-main.png)
+![Dashboard Preview](dashboard-main.png)
 
 ---
 
@@ -14,7 +14,6 @@ An interactive Power BI dashboard providing **live 7-day weather and air quality
 - **Dual-axis chart** comparing Temperature vs. Feels-Like over time
 - **PM10 vs PM2.5 analysis** for air quality tracking
 - **Average cloud cover** trend view
-- **Mobile-optimized layout**
 
 ## 🛠️ Tech Stack
 
@@ -60,11 +59,7 @@ Open-Meteo Air Quality API ─┘
 ### Main Dashboard
 ![Main](screenshots/dashboard-main.png)
 
-### 7-Day Forecast View
-![Forecast](screenshots/forecast-view.png)
 
-### Mobile Layout
-![Mobile](screenshots/mobile-view.png)
 
 ## 📄 License & Attribution
 
