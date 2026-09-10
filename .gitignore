@@ -1,0 +1,26 @@
+# Power BI
+*.pbix.tmp
+*.pbix.old
+.pbi_cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets (safety net — Open-Meteo has no key, but just in case)
+config.json
+secrets.txt
+api_keys.txt
